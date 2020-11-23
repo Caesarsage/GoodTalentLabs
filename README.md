@@ -1,7 +1,7 @@
-"#GoodTalentLabs REPO For Examples Practice and assignments/project"
+<h1>"#GoodTalentLabs REPO For Examples Practice and assignments/project"</h1>
 
 <ul>
-  <h1>HTML & CSS BY JON DUCKETT</h1>
+  <h2>HTML & CSS BY JON DUCKETT</h2>
   <li><span>chapter 1 </span> Introduction to Web & HTML STRUCTURE</li>
   <li><span>chapter 2 </span> HTML TEXT</li>
   <li><span>chapter 3 </span> HTML LINKS</li>
